@@ -9,7 +9,7 @@ Compile the OneWire init
 
 Link the compiled file to `/lib/firmware`
 
-    sudo ln -sf `pwd`w1-00A0.dtbo /lib/firmware/
+    sudo ln -sf `pwd`/w1-00A0.dtbo /lib/firmware/
 
 Load the firmware
 
